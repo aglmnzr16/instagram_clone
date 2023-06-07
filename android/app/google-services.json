@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "849421460917",
+    "project_id": "instagram-agil",
+    "storage_bucket": "instagram-agil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849421460917:android:e88cb95877a4db2312a5fc",
+        "android_client_info": {
+          "package_name": "com.example.instagram_flutter_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849421460917-4080s8pr36allkdb200unv29q5ajuq92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHmeD8L2O2Ix3QqL9HLSSHdZMdeZeN0CI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849421460917-4080s8pr36allkdb200unv29q5ajuq92.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "849421460917-dnm28pnqatiqvffs23klah98725aaa51.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.agil.instagramclone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
